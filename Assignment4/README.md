@@ -1,4 +1,4 @@
-# Assignment 3 Convolutional Neural Network
+# Assignment 4 Convolutional Neural Network
 
 ## Introduction
 
