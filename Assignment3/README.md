@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Build deep neural netwrok to implement binary classifier and multi-class classifier.
+Build deep neural network to implement binary classifier and multi-class classifier.
 
 ## Data
 
